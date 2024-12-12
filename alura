@@ -44,6 +44,13 @@
             font-size: 1.1em;
             color: #555;
         }
+        a {
+            color: #0066cc; /* Cor do link */
+            text-decoration: none; /* Remover sublinhado */
+        }
+        a:hover {
+            text-decoration: underline; /* Adicionar sublinhado ao passar o mouse */
+        }
     </style>
 </head>
 <body>
@@ -60,8 +67,8 @@
             <h2>O que faço?</h2>
             <p>Eu sou um desenvolvedor web e estou aprendendo a criar sites com HTML e CSS.</p>
 
-            <h2>Objetivos</h2>
-            <p>Fazer sites muito mais chamativos e atrantes</p>
+            <h2>Entre em contato</h2>
+            <p>Você pode me enviar um e-mail para: <a href="mailto:exemplo@meusite.com">exemplo@meusite.com</a></p>
         </div>
     </main>
 
