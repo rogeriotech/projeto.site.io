@@ -3,15 +3,16 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Site Simples</title>
+    <title>Projeto site Maria Eduarda</title>
     <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 0;
+            background-color: #f4f4f4;
         }
         header {
-            background-color: #4CAF50;
+            background-color: #ff0000; /* Cor vermelha */
             color: white;
             padding: 10px 0;
             text-align: center;
@@ -33,6 +34,9 @@
             margin: 0 auto;
         }
         h1 {
+            color: white;
+        }
+        h2 {
             color: #333;
         }
         p {
@@ -44,13 +48,13 @@
 <body>
 
     <header>
-        <h1>Bem-vindo ao Meu Site</h1>
+        <h1>Projeto site Maria Eduarda</h1>
     </header>
 
     <main>
         <div class="content">
             <h2>Sobre Mim</h2>
-            <p>Este é um site simples criado para demonstrar a estrutura básica de uma página HTML.</p>
+            <p>Estudante no Alura</p>
 
             <h2>O que faço?</h2>
             <p>Eu sou um desenvolvedor web e estou aprendendo a criar sites com HTML e CSS.</p>
@@ -61,7 +65,7 @@
     </main>
 
     <footer>
-        <p>&copy; 2024 Meu Site. Todos os direitos reservados.</p>
+        <p>&copy; 2024 Projeto site Maria Eduarda. Todos os direitos reservados.</p>
     </footer>
 
 </body>
