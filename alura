@@ -61,4 +61,13 @@
             <p>Eu sou um desenvolvedor web e estou aprendendo a criar sites com HTML e CSS.</p>
 
             <h2>Entre em contato</h2>
-            <p>Você pode m
+            <p>Você pode me enviar um e-mail para: exemplo@meusite.com</p>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Projeto site Maria Eduarda. Todos os direitos reservados.</p>
+    </footer>
+
+</body>
+</html>
